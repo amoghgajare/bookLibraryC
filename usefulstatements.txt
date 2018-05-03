@@ -1,0 +1,4 @@
+Useful statements for formatting and restarting application
+
+fprintf(user,"User ID\tUsername\n\n");
+ fprintf(books,"Book ID\tTitle\t\tAuthor\n\n");
